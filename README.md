@@ -11,14 +11,16 @@ This project sets up a complete **LAMP (Linux, Apache, MySQL, PHP)** stack using
 
 ```
 
-project-1-lamp-docker/
+<pre><code>project-1-lamp-docker/
 ├── lamp-docker/
-│   ├── apache-php/        # PHP and Apache configuration
-│   │   └── index.php      # Sample PHP script connecting to MySQL
-│   ├── mysql/             # MySQL initialization files
-│   │   └── init.sql       # SQL script to create DB and table
-│   └── docker-compose.yml # Main Docker Compose config
+│   ├── apache-php/          # PHP and Apache configuration
+│   │   └── index.php        # Sample PHP script connecting to MySQL
+│   ├── mysql/               # MySQL initialization files
+│   │   └── init.sql         # SQL script to create DB and table
+│   └── docker-compose.yml   # Main Docker Compose config
 └── README.md
+</code></pre>
+
 
 ````
 
