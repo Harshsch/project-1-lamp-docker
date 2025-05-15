@@ -1,4 +1,3 @@
-Great! Here's a clean and professional `README.md` for your **LAMP Stack Docker Project**:
 
 ---
 
@@ -95,7 +94,4 @@ GitHub: [@Harshsch](https://github.com/Harshsch)
 
 ---
 
-```
-
-Let me know if you'd like to add screenshots, GitHub Pages demo link, or deployment instructions. I can insert those too.
 ```
